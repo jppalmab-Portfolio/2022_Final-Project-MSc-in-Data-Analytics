@@ -1,5 +1,5 @@
-# 2022z_Final-Project-MSc-in-Data-Analytics
-## [Python|Web scraping|pandas|Networkx|Cosine similarity|Greedy modularity cluster]
+# 2022_Final-Project-MSc-in-Data-Analytics
+`[Python | Web scraping | pandas | Networkx | Cosine similarity | Greedy modularity cluster]`
 
 This project is the Final Research for the MSc Data Analytics degree. It focused on identifying the structure of the Constitutional Convention in Chile during 2021-2022 using network analysis. 
 
